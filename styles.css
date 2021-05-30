@@ -1,0 +1,21 @@
+body
+ {
+  text-align: center;
+  background-color: #045762;
+  font-family: sans-serif;
+ }
+.mouli
+ {
+  position :relative;
+  left:100px;
+ }
+ .pooji
+  {
+   position: relative;
+   right:130px;
+  }
+  .ruchi
+  {
+    position: relative;
+    right:30px;
+  }
